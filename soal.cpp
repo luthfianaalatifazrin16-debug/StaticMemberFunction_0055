@@ -22,11 +22,4 @@ public:
         id = Pid;
         nama = "Meja";
     }
-
-    // 3. Constructor dengan parameter nama
-    Produk(string Pnama)
-    {
-        id = 0;
-        nama = Pnama;
-    }
 };
