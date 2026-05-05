@@ -15,11 +15,4 @@ public:
         id = 0;
         nama = "Default";
     }
-
-    // 2. Constructor dengan parameter id
-    Produk(int Pid)
-    {
-        id = Pid;
-        nama = "Meja";
-    }
 };
