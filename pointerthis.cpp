@@ -26,12 +26,3 @@ public:
         cout << "Nama = " << nama << endl;
     }
 };
-
-int main()
-{
-    mahasiswa mhs;
-    mhs.setNim(112);
-    mhs.setNama("Kiki");
-    mhs.cetak();
-
-    return 0;
