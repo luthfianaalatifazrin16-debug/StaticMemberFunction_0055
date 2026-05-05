@@ -35,4 +35,3 @@ int main()
     mhs.cetak();
 
     return 0;
-}
