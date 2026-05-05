@@ -44,17 +44,3 @@ public:
         cout << endl;
     }
 };
-
-int main()
-{
-    Produk p1;               // default
-    Produk p2(10);           // id saja
-    Produk p3("Kursi");      // nama saja
-    Produk p4(20, "Laptop"); // lengkap
-
-    p1.tampilkan();
-    p2.tampilkan();
-    p3.tampilkan();
-    p4.tampilkan();
-
-    return 0;
