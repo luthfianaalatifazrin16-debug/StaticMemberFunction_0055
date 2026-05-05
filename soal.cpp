@@ -29,18 +29,4 @@ public:
         id = 0;
         nama = Pnama;
     }
-
-    // 4. Constructor lengkap
-    Produk(int Pid, string Pnama)
-    {
-        id = Pid;
-        nama = Pnama;
-    }
-
-    void tampilkan()
-    {
-        cout << "ID   : " << id << endl;
-        cout << "Nama : " << nama << endl;
-        cout << endl;
-    }
 };
