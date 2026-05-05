@@ -20,4 +20,3 @@ int main()
 {
     mahasiswa mhs(113, "Rizqi Tukang Makan"); // memanggil constructor dengan parameter
     return 0;
-}
