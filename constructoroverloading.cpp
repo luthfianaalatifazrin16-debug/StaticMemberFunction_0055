@@ -58,4 +58,3 @@ int main()
     mhs3.cetak();
 
     return 0;
-}
