@@ -58,4 +58,3 @@ int main()
     p4.tampilkan();
 
     return 0;
-}
